@@ -2,6 +2,6 @@
 
 locals {
   account_name   = "prod"
-  aws_account_id = "280843976462"
+  aws_account_id = "your_account_id"
   aws_profile    = "prod"
 }

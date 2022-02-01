@@ -2,6 +2,6 @@
 
 locals {
   account_name   = "dev"
-  aws_account_id = "your-account-id"
+  aws_account_id = "your_account_id"
   aws_profile    = "dev"
 }
